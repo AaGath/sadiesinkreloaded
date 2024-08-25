@@ -69,7 +69,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Arpitbotmovies') # owner usernam
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+pylTdXC-Tf4zNDc1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+pylTdXC-Tf4zNDc1')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+RsQwXu9PiiQ1MjNl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+ky1NdjkRhms2M2Q1') # Support Chat Link Without https:// or @
 
 # True Or False
@@ -99,12 +99,12 @@ VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'https://api.shareus.
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', 'api.shareus.io')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'https://api.shareus.io/easy_api?key=VT7MpySSMiSaUBmIE2Ev1MiOc7F3&link=https://shareus.io')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/+OZgxMYyhkFw5MDU1')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/+RsQwXu9PiiQ1MjNl')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'VT7MpySSMiSaUBmIE2Ev1MiOc7F3')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '63abbd0502e32cb99ea2d82edf518d903c827e3f')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
