@@ -102,7 +102,7 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', 'https://api.
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/+RsQwXu9PiiQ1MjNl')
 
 # Shortlink Info
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
+SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '63abbd0502e32cb99ea2d82edf518d903c827e3f')
 
